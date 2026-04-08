@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "intentui": {
+      "source": "intentui/skills",
+      "sourceType": "github",
+      "computedHash": "07f5596dd6bdd08ff9098b8ceb0e46af231605ec6fdea91677a15c88db125273"
+    },
+    "react-aria": {
+      "source": "react-aria.adobe.com",
+      "sourceType": "well-known",
+      "computedHash": "88f92384476cee8ab0a588b8e6fb7e759bbf952ccdcd5080522a27a12312ed9c"
+    },
+    "shadcn": {
+      "source": "shadcn/ui",
+      "sourceType": "github",
+      "computedHash": "642a177bee320618caa49f5106cadb4e7594c606e867f61ba7b56d19cf745cd5"
+    }
+  }
+}
